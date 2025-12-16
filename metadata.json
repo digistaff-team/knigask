@@ -1,0 +1,5 @@
+{
+  "name": "Книги СК",
+  "description": "A modern library management system for tracking books, readers, and loans with a MySQL backend.",
+  "requestFramePermissions": []
+}
